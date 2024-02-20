@@ -2,16 +2,17 @@
 DRINKS
 ------------
 water
-coffee
-tea
-smoothie
-coke
+sparkling water
+compot
+fresh
+sprite
 
 ------------
 FOOD
 ------------
-pizza
-kebab
+babana
+apple
 soup
+borsch
 salad
-dumplings
+
