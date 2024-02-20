@@ -1,13 +1,15 @@
 ------------
 MOVIES
 ------------
+The Fast and Furious
 Avengers: End Game
 Interstellar
-Gifted
+Deadpool
 
 ------------
 SERIES
 ------------
-The Walking Dead
-Peaky Blinders
+Fear the Walking Dead
 The simpsons
+Foundation
+Shrinking
