@@ -2,16 +2,18 @@
 DRINKS
 ------------
 water
+wine
 coffee
 tea
-smoothie
-coke
+pepsi
+fanta
 
 ------------
 FOOD
 ------------
+tomato soup
 pizza
 kebab
-soup
+borsch
 salad
-dumplings
+apple
