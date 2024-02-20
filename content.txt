@@ -1,1 +1,29 @@
+------------
+DRINKS
+------------
+healthy:
+water
+sparkling water
+compot
+fresh
+tea
 
+tasty:
+sprite
+wine
+coffee
+pepsi
+fanta
+
+
+------------
+FOOD
+------------
+babana
+apple
+soup
+tomato soup
+pizza
+kebab
+borsch
+salad
