@@ -1,13 +1,15 @@
 ------------
 MOVIES
 ------------
-Avengers: End Game
+Venom
 Interstellar
 Gifted
+Oppenheimer
 
 ------------
 SERIES
 ------------
 The Walking Dead
+Sherlok
 Peaky Blinders
-The simpsons
+Young Sheldon
