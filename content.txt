@@ -1,1 +1,17 @@
+------------
+DRINKS
+------------
+water
+coffee
+tea
+smoothie
+coke
 
+------------
+FOOD
+------------
+pizza
+kebab
+soup
+salad
+dumplings
